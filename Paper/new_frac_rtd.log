@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.11.6)  6 NOV 2018 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.11.6)  7 NOV 2018 10:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -226,33 +226,33 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <Pix/r-frac.pdf, id=12, 397.485pt x 396.48125pt>
 File: Pix/r-frac.pdf Graphic file (type pdf)
  <use Pix/r-frac.pdf>
-Package pdftex.def Info: Pix/r-frac.pdf used on input line 73.
+Package pdftex.def Info: Pix/r-frac.pdf used on input line 72.
 (pdftex.def)             Requested size: 397.48402pt x 396.48027pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 77.
+(Font)              <12> on input line 76.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 77.
+(Font)              <8> on input line 76.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 77.
+(Font)              <6> on input line 76.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 101.
+(Font)              <5> on input line 100.
  [2 <./Pix/r-frac.pdf>] <Pix/hilbert.pdf, id=20, 517.935pt x 515.9275pt>
 File: Pix/hilbert.pdf Graphic file (type pdf)
 
 <use Pix/hilbert.pdf>
-Package pdftex.def Info: Pix/hilbert.pdf used on input line 108.
+Package pdftex.def Info: Pix/hilbert.pdf used on input line 107.
 (pdftex.def)             Requested size: 517.93372pt x 515.92624pt.
  <Pix/bendy.pdf, id=21, 321.2pt x 371.3875pt>
 File: Pix/bendy.pdf Graphic file (type pdf)
 
 <use Pix/bendy.pdf>
-Package pdftex.def Info: Pix/bendy.pdf used on input line 109.
+Package pdftex.def Info: Pix/bendy.pdf used on input line 108.
 (pdftex.def)             Requested size: 321.19922pt x 371.38658pt.
  [3 <./Pix/hilbert.pdf> <./Pix/bendy.pdf>]
 <Pix/new_f1.pdf, id=33, 513.92pt x 513.92pt>
 File: Pix/new_f1.pdf Graphic file (type pdf)
  <use Pix/new_f1.pdf>
-Package pdftex.def Info: Pix/new_f1.pdf used on input line 174.
+Package pdftex.def Info: Pix/new_f1.pdf used on input line 173.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
 
 
@@ -261,37 +261,37 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Pix/sequence1.pdf, id=34, 513.92pt x 513.92pt>
 File: Pix/sequence1.pdf Graphic file (type pdf)
  <use Pix/sequence1.pdf>
-Package pdftex.def Info: Pix/sequence1.pdf used on input line 187.
+Package pdftex.def Info: Pix/sequence1.pdf used on input line 186.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
 
 <Pix/sequence2.pdf, id=35, 513.92pt x 513.92pt>
 File: Pix/sequence2.pdf Graphic file (type pdf)
  <use Pix/sequence2.pdf>
-Package pdftex.def Info: Pix/sequence2.pdf used on input line 188.
+Package pdftex.def Info: Pix/sequence2.pdf used on input line 187.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
 
 <Pix/sequence3.pdf, id=36, 513.92pt x 513.92pt>
 File: Pix/sequence3.pdf Graphic file (type pdf)
  <use Pix/sequence3.pdf>
-Package pdftex.def Info: Pix/sequence3.pdf used on input line 189.
+Package pdftex.def Info: Pix/sequence3.pdf used on input line 188.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
 
 <Pix/sequence4.pdf, id=37, 513.92pt x 513.92pt>
 File: Pix/sequence4.pdf Graphic file (type pdf)
  <use Pix/sequence4.pdf>
-Package pdftex.def Info: Pix/sequence4.pdf used on input line 190.
+Package pdftex.def Info: Pix/sequence4.pdf used on input line 189.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
 
 <Pix/sequence5.pdf, id=38, 513.92pt x 513.92pt>
 File: Pix/sequence5.pdf Graphic file (type pdf)
  <use Pix/sequence5.pdf>
-Package pdftex.def Info: Pix/sequence5.pdf used on input line 191.
+Package pdftex.def Info: Pix/sequence5.pdf used on input line 190.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
 
 <Pix/sequence6.pdf, id=39, 513.92pt x 513.92pt>
 File: Pix/sequence6.pdf Graphic file (type pdf)
  <use Pix/sequence6.pdf>
-Package pdftex.def Info: Pix/sequence6.pdf used on input line 192.
+Package pdftex.def Info: Pix/sequence6.pdf used on input line 191.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
 
 
@@ -300,7 +300,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Pix/new_f2.pdf, id=40, 513.92pt x 513.92pt>
 File: Pix/new_f2.pdf Graphic file (type pdf)
  <use Pix/new_f2.pdf>
-Package pdftex.def Info: Pix/new_f2.pdf used on input line 211.
+Package pdftex.def Info: Pix/new_f2.pdf used on input line 210.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
  [4]
 
@@ -309,13 +309,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Pix/new_f07a.pdf, id=44, 513.92pt x 513.92pt>
 File: Pix/new_f07a.pdf Graphic file (type pdf)
  <use Pix/new_f07a.pdf>
-Package pdftex.def Info: Pix/new_f07a.pdf used on input line 239.
+Package pdftex.def Info: Pix/new_f07a.pdf used on input line 238.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
 
 <Pix/new_f07b.pdf, id=45, 513.92pt x 513.92pt>
 File: Pix/new_f07b.pdf Graphic file (type pdf)
  <use Pix/new_f07b.pdf>
-Package pdftex.def Info: Pix/new_f07b.pdf used on input line 240.
+Package pdftex.def Info: Pix/new_f07b.pdf used on input line 239.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
 
 
@@ -325,37 +325,37 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: Pix/triang0.pdf Graphic file (type pdf)
 
 <use Pix/triang0.pdf>
-Package pdftex.def Info: Pix/triang0.pdf used on input line 271.
+Package pdftex.def Info: Pix/triang0.pdf used on input line 270.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
  <Pix/triang1.pdf, id=53, 513.92pt x 513.92pt>
 File: Pix/triang1.pdf Graphic file (type pdf)
 
 <use Pix/triang1.pdf>
-Package pdftex.def Info: Pix/triang1.pdf used on input line 272.
+Package pdftex.def Info: Pix/triang1.pdf used on input line 271.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
  <Pix/triang2.pdf, id=54, 513.92pt x 513.92pt>
 File: Pix/triang2.pdf Graphic file (type pdf)
 
 <use Pix/triang2.pdf>
-Package pdftex.def Info: Pix/triang2.pdf used on input line 273.
+Package pdftex.def Info: Pix/triang2.pdf used on input line 272.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
  <Pix/triang3.pdf, id=55, 513.92pt x 513.92pt>
 File: Pix/triang3.pdf Graphic file (type pdf)
 
 <use Pix/triang3.pdf>
-Package pdftex.def Info: Pix/triang3.pdf used on input line 274.
+Package pdftex.def Info: Pix/triang3.pdf used on input line 273.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
  <Pix/triang4.pdf, id=56, 513.92pt x 513.92pt>
 File: Pix/triang4.pdf Graphic file (type pdf)
 
 <use Pix/triang4.pdf>
-Package pdftex.def Info: Pix/triang4.pdf used on input line 275.
+Package pdftex.def Info: Pix/triang4.pdf used on input line 274.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
  <Pix/triang10.pdf, id=57, 513.92pt x 513.92pt>
 File: Pix/triang10.pdf Graphic file (type pdf)
 
 <use Pix/triang10.pdf>
-Package pdftex.def Info: Pix/triang10.pdf used on input line 276.
+Package pdftex.def Info: Pix/triang10.pdf used on input line 275.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
  [6 <./Pix/sequence1.pdf> <./Pix/sequence2.pdf> <./Pix/sequence3.pdf> <./Pix/se
 quence4.pdf> <./Pix/sequence5.pdf> <./Pix/sequence6.pdf>]
@@ -368,26 +368,26 @@ ang4.pdf> <./Pix/triang10.pdf>]
 <Pix/frac-dims.pdf, id=115, 507.8975pt x 350.30875pt>
 File: Pix/frac-dims.pdf Graphic file (type pdf)
  <use Pix/frac-dims.pdf>
-Package pdftex.def Info: Pix/frac-dims.pdf used on input line 314.
+Package pdftex.def Info: Pix/frac-dims.pdf used on input line 313.
 (pdftex.def)             Requested size: 507.89627pt x 350.30789pt.
 
 [9 <./Pix/frac-dims.pdf>] <Pix/loop0.pdf, id=125, 513.92pt x 513.92pt>
 File: Pix/loop0.pdf Graphic file (type pdf)
 
 <use Pix/loop0.pdf>
-Package pdftex.def Info: Pix/loop0.pdf used on input line 356.
+Package pdftex.def Info: Pix/loop0.pdf used on input line 355.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
  <Pix/loop.pdf, id=126, 513.92pt x 513.92pt>
 File: Pix/loop.pdf Graphic file (type pdf)
 
 <use Pix/loop.pdf>
-Package pdftex.def Info: Pix/loop.pdf used on input line 357.
+Package pdftex.def Info: Pix/loop.pdf used on input line 356.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
  <Pix/bnd.pdf, id=127, 513.92pt x 513.92pt>
 File: Pix/bnd.pdf Graphic file (type pdf)
 
 <use Pix/bnd.pdf>
-Package pdftex.def Info: Pix/bnd.pdf used on input line 374.
+Package pdftex.def Info: Pix/bnd.pdf used on input line 373.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
 
 
@@ -396,30 +396,30 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Pix/ccstart.pdf, id=128, 513.92pt x 513.92pt>
 File: Pix/ccstart.pdf Graphic file (type pdf)
  <use Pix/ccstart.pdf>
-Package pdftex.def Info: Pix/ccstart.pdf used on input line 386.
+Package pdftex.def Info: Pix/ccstart.pdf used on input line 385.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
 
 <Pix/cc.pdf, id=129, 513.92pt x 513.92pt>
 File: Pix/cc.pdf Graphic file (type pdf)
  <use Pix/cc.pdf>
-Package pdftex.def Info: Pix/cc.pdf used on input line 387.
+Package pdftex.def Info: Pix/cc.pdf used on input line 386.
 (pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
  [10 <./Pix/loop0.pdf> <./Pix/loop.pdf>] [11 <./Pix/bnd.pdf> <./Pix/ccstart.pdf
 > <./Pix/cc.pdf>]
 [12]
-Underfull \hbox (badness 3029) in paragraph at lines 476--479
+Underfull \hbox (badness 3029) in paragraph at lines 475--478
 []\OT1/cmr/m/n/12 Free Soft-ware Foun-da-tion Inc. (59 Tem-ple Place - Suite 33
 0,
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 476--479
+Underfull \hbox (badness 1152) in paragraph at lines 475--478
 \OT1/cmr/m/n/12 Boston, MA 02111-1307, USA): \OT1/cmr/m/it/12 GNU Gen-eral Pub-
 lic Li-cense \OT1/cmr/m/n/12 at
  []
 
 
-Underfull \hbox (badness 2173) in paragraph at lines 480--483
+Underfull \hbox (badness 2173) in paragraph at lines 479--482
 []\OT1/cmr/m/n/12 David Hilbert: []\OT1/cmr/m/it/12 Uber die stetige Ab-bil-dun
 g einer Linie auf ein
  []
@@ -447,7 +447,7 @@ type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmti12.pfb>
-Output written on new_frac_rtd.pdf (14 pages, 896043 bytes).
+Output written on new_frac_rtd.pdf (14 pages, 895999 bytes).
 PDF statistics:
  207 PDF objects out of 1000 (max. 8388607)
  125 compressed objects within 2 object streams
